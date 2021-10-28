@@ -9,7 +9,6 @@ RAM:  16GB DDR4
 GPU:  Nvidia 1050 4GB
 IGPU: Intel Graphics UHD 630
 Display: IPS Monitor 15.6 inch
-=====================================================
 
 What's Working:
 =====================================================
