@@ -22,11 +22,11 @@ What's Working:
 8.  HDMI and HDMI Audio(Can't adjust volume and have some bug when waked)
 9.  Display Port and Display Port Audio (Can't adjust volume and have some bug when waked)
 10. 3.5mm audio
+11. Keyboard Backlight Adjustment
+12. SD Card Reader
 
 
 What's not Working:
 =====================================================
 1. Nvidia GPU
-2. SD Card Reader
-3. Keyboard Backlight Adjustment(Always Light)
-4. Logitech Bluetooth Mouse And Keyboard connect
+2. Logitech Bluetooth Mouse And Keyboard connect
