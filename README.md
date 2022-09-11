@@ -24,9 +24,10 @@ What's Working:
 10. 3.5mm audio
 11. Keyboard Backlight Adjustment
 12. SD Card Reader
+13. Logitech Bluetooth Mouse And Keyboard connect
+14. Android USE Ethernet (HORNIDS)
 
 
 What's not Working:
 =====================================================
 1. Nvidia GPU
-2. Logitech Bluetooth Mouse And Keyboard connect
