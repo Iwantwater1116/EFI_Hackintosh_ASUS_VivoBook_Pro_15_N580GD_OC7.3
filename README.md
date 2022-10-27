@@ -1,5 +1,5 @@
-# EFI_Hackintosh_ASUS_VivoBook_Pro_15_N580GD_OC 7.5
-Hackintosh On ASUS Vivobook Pro 15 N580GD OC 7.5
+# EFI_Hackintosh_ASUS_VivoBook_Pro_15_N580GD_OC 0.85
+Hackintosh On ASUS Vivobook Pro 15 N580GD OC 0.85
 
 Notebook Specification:
 =====================================================
