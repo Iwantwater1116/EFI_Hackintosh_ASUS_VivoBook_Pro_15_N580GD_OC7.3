@@ -1,3 +1,5 @@
+Hi! I decide to update Iwantwater1116's work for MacOS Sonoma. This first release (15.0.0) is still under testing.
+
 Hackintosh On ASUS Vivobook Pro 15 N580GD OC 0.95
 
 Notebook Specification:
