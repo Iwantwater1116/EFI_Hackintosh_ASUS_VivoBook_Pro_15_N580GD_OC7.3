@@ -3,17 +3,11 @@
 Notebook Specification:
 =====================================================
 Name: ASUS Vivobook Pro 15 N580GD
-
 CPU:  Intel i7-8750H
-
 RAM:  16GB DDR4
-
 GPU:  Nvidia 1050 4GB
-
 IGPU: Intel Graphics UHD 630
-
 Display: IPS Monitor 15.6 inch
-
 
 What's Working:
 =====================================================
