@@ -1,25 +1,13 @@
-# EFI_Hackintosh_ASUS_VivoBook_Pro_15_N580GD_OC 0.93
-Hackintosh On ASUS Vivobook Pro 15 N580GD OC 0.93
-
-Last Words:
-====================================================
-
-2023/10/12
-Aside from my own purchase of an official Mac computer, there is no longer a need for a Hackintosh. The latest macOS 14.0 Sonoma now supports a minimum of MacBook Pro 2018 and later models. It is anticipated that in the future, the N580GD may no longer be able to update to the latest macOS. Consequently, OpenCore Bootloader updates for the N580GD will no longer be provided.
-
-A few days ago, I successfully installed the latest macOS 14.0 Sonoma on the N580GD, and it can boot smoothly, just like Ventura. However, I lost the bootloader before I had a chance to upload it. The method I used involves updating my current OpenCore bootloader, which supports Ventura, to the latest OpenCore version. Additionally, updating the airportitlwm.kext and IntelBluetoothFirmware.kext to the Sonoma version is necessary for a smooth boot. Currently, IntelBluetoothFirmware.kext has a Sonoma version available, but the Sonoma version of airportitlwm.kext has not been released yet. You can patiently await its release or search on Github for information about airportitlwm.kext and test drivers created for Sonoma Beta.
-
-Finally, I want to express my gratitude for all your support. In the future, I will no longer be providing updates. If anyone wishes to continue maintaining this project, please let me know, and I will gladly hand over the project for them to maintain.
-
+# Hi! I decided to update Iwantwater1116's work about Hackintosh on ASUS Vivobook Pro 15 N580GD. This first release (15.0.0), based on Open Core 0.9.5, works on macOS Sonoma 14.1, but is still under testing.
 
 Notebook Specification:
 =====================================================
-Name: ASUS Vivobook Pro 15 N580GD 
-CPU:  Intel i7-8750H
-RAM:  16GB DDR4
-GPU:  Nvidia 1050 4GB
-IGPU: Intel Graphics UHD 630
-Display: IPS Monitor 15.6 inch
+- Name: ASUS Vivobook Pro 15 N580GD
+- CPU:  Intel i7-8750H
+- RAM:  16GB DDR4
+- GPU:  Nvidia 1050 4GB
+- IGPU: Intel Graphics UHD 630
+- Display: IPS Monitor 15.6 inch
 
 What's Working:
 =====================================================
